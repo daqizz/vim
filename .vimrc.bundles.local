@@ -1,0 +1,1 @@
+    echo Bundle \'spf13/vim-colors\' >> ~/.vimrc.bundles.local
